@@ -27,6 +27,7 @@ Five digits inverted:
 
 from __future__ import print_function
 from keras.models import Sequential
+import keras.layers
 from keras import layers
 import numpy as np
 from six.moves import range
